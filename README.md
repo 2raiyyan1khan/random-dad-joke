@@ -3,4 +3,4 @@ Api credit https://icanhazdadjoke.com/
 
 
 
-live Link https://random-dad-jock.netlify.app/
+live Link https://random-dad-joke.netlify.app/
